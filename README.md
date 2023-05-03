@@ -1,2 +1,2 @@
-# Weather-App
+# Weather Prognostication System
 Created with CodeSandbox
